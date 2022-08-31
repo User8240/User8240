@@ -11,5 +11,5 @@ let Grace = {
   pronouns: "she" | "her",
   code: [Javascript, Markdown, C#, HTML, CSS],
   tools: [React, Node, Jest, Docker]
-  }
+ }
 ```
