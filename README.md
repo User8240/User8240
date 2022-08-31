@@ -7,8 +7,9 @@
 ### <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/923/856/7a0" width="50"> A little about me...  
 
 ```javascript
-const Grace = {
+let Grace = {
   pronouns: "she" | "her",
   code: [Javascript, Markdown, C#, HTML, CSS],
-  tools: [React, Node, Jest, Docker],
+  tools: [React, Node, Jest, Docker]
+  }
 ```
