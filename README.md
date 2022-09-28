@@ -9,7 +9,7 @@
 ```javascript
 let Grace = {
   pronouns: "she" | "her",
-  code: [Javascript, Markdown, C#, HTML, CSS],
-  tools: [React, Node, Jest, Docker]
+  code: [ JavaScript, React, C#, HTML, CSS, Markdown ],
+  tools: [ Node, Jest ]
  }
 ```
